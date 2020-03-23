@@ -1,0 +1,5 @@
+C:\Users\clavi\source\repos\TP1Module6\dossier\bin\Debug\BO.dll
+C:\Users\clavi\source\repos\TP1Module6\dossier\bin\Debug\BO.pdb
+C:\Users\clavi\source\repos\TP1Module6\dossier\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\clavi\source\repos\TP1Module6\dossier\obj\Debug\BO.dll
+C:\Users\clavi\source\repos\TP1Module6\dossier\obj\Debug\BO.pdb
