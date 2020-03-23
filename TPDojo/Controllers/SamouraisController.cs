@@ -99,7 +99,6 @@ namespace TPDojo.Controllers
         {
             if (ModelState.IsValid)
             {
-                // On récupère le samouraï en base correspondant à cet Id, puis on met ses propriétés à jour à partie des valeurs du ViewModel
                 var samourai = db.Samourais.Find(samouraiVM.Samourai.Id);
                 samourai.Arme = null;
                 samourai.Force = samouraiVM.Samourai.Force;
